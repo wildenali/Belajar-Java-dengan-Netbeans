@@ -39,7 +39,7 @@ public class Main {
         System.out.printf("Data dari array ke-%d adalah %d\n\n", indexInput, data);
         
         
-        
+                
     }
     
     
