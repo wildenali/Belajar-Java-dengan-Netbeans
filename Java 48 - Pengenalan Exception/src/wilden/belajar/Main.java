@@ -57,8 +57,8 @@ public class Main {
             System.err.println(e);
         }
         
-        // Finally
-        System.out.println("\n===== Menambahkan Finally =====");
+        // Finally 
+       System.out.println("\n===== Menambahkan Finally =====");
         try {
             System.out.printf("index ke-%d, adalah %d\n", index, array[index]);
         } catch (ArrayIndexOutOfBoundsException e) {
