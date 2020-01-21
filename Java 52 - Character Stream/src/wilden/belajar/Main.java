@@ -54,7 +54,7 @@ public class Main {
         }
         
         // Menutup File
-        byteFileInput.close();
+        byteFileInput.close();  
         charFileInput.close();
         byteFileOutput.close();
         charFileOutput.close();
