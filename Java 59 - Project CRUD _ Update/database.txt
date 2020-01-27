@@ -1,0 +1,8 @@
+fiersabesari_2012_1,2012,fiersa besari,media kita,jejak langkah
+PramoedyaAnantatoer_2001_1,2001,Pramoedya Anantatoer,Gramedia,Bumi Manusia
+purcell_2009_1,2009,purcell,wiley,calculus
+faqihza_2019_1,2019,faqihza,gramedia,belajar C++
+mangencep_2019_1,2019,mang encep,terbit lah terang jaya,belajar python
+faqihza_2019_3,2019,faqihza,gramedia,belajar Java
+mangucuk_1999_1,1999,mang ucuk,ucup java mandiri,iniapa
+entong_2019_1,2019,entong,entong jaya mandiri,entong naik kelas
